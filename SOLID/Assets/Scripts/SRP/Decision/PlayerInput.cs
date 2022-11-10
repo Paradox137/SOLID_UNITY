@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Core.Scripts.SRP.Decision
+namespace Core.SRP.Decision
 {
     public class PlayerInput : MonoBehaviour
     {

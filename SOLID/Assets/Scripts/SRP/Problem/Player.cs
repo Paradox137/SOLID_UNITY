@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core.Scripts.SRP.Problem
+namespace Core.SRP.Problem
 {
     public sealed class Player : MonoBehaviour
     {

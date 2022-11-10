@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core.Scripts.OCP.Problem
+namespace Core.OCP.Problem
 {
     public class Bullet : MonoBehaviour
     {
@@ -20,7 +20,7 @@ namespace Core.Scripts.OCP.Problem
                 case "Gigas":
                     enemy.ApplyDamageToGigas();
                     break;
-                //  ! PROBLEM: added 
+                //! PROBLEM: added 
                 case "DarkInferno":
                     enemy.ApplyDamageToDarkInferno();
                     break;

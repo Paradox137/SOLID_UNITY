@@ -1,7 +1,6 @@
-using Core.OCP.Decision;
 using UnityEngine;
 
-namespace Core.Scripts.OCP.Decision
+namespace Core.OCP.Decision
 {
     public class DarkInferno : MonoBehaviour, IEnemy
     {

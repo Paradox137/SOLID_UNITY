@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core.Scripts.OCP.Problem
+namespace Core.OCP.Problem
 {
     public class Enemy : MonoBehaviour
     {
@@ -14,7 +14,7 @@ namespace Core.Scripts.OCP.Problem
             Debug.Log("Gigas");
         }
         
-        //  ! PROBLEM: added 
+        //! PROBLEM: added 
         public void ApplyDamageToDarkInferno()
         {
             Debug.Log("DarkInferno");
