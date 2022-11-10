@@ -11,7 +11,10 @@ namespace Core.LSP.Problem
             //! PROBLEM CANT DO THIS
             //! Rectangle rectangle = new Square();
 
+            //! quad area = 25
             rectangle.Width = 5;
+            
+            //! quad area = 4
             rectangle.Height = 2;
             Debug.Assert(rectangle.Area() == 10);
         }
