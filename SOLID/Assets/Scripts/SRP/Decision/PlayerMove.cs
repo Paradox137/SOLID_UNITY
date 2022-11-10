@@ -1,7 +1,6 @@
-using System;
 using UnityEngine;
 
-namespace Core.Core.SRP.Decision
+namespace Core.Scripts.SRP.Decision
 {
     public class PlayerMove : MonoBehaviour
     {
